@@ -12,7 +12,8 @@ dependencies:
     sdk: flutter
   path_provider: 
     git:
-      url: git://github.com/wittech/flutter_path_provider.git
+      url: git://github.com/wittech/plugins.git
+      path: packages/path_provider
       
   http_client_helper: ^0.1.9
   crypto: ^2.0.6
